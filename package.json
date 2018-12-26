@@ -1,0 +1,15 @@
+{
+  "name": "node-microservices-rabbitmq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fuadajip/node-microservices-rabbitmq.git",
+  "author": "fuadajip <fuadajipratomo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.0.0",
+    "imagemin": "^6.1.0",
+    "imagemin-pngquant": "^6.0.1"
+  }
+}
